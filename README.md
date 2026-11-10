@@ -61,6 +61,8 @@ Work in order. Each step gets: goal → LuCI/uci path → verification → rollb
 
 Detail: [docs/harden-checklist.md](docs/harden-checklist.md).
 
+A George-reported session record (not an independent audit, and not a verification of the checklist above) is in [docs/beryl-ax-troubleshooting-and-hardening-record.md](docs/beryl-ax-troubleshooting-and-hardening-record.md).
+
 ## Interview STAR (short)
 
 - **Situation:** Career switch into IT support; home lab needed real edge security practice, not just consumer mesh.
@@ -80,6 +82,7 @@ docs/architecture.md
 docs/bom.md
 docs/harden-checklist.md
 docs/troubleshooting.md
+docs/beryl-ax-troubleshooting-and-hardening-record.md
 config-examples/          ← sanitized uci snippets later (no secrets)
 assets/                   ← screenshots / bufferbloat graphs later
 LICENSE

@@ -1,5 +1,7 @@
 # Troubleshooting notes
 
+A George-reported record of the 6–7 November 2026 Beryl AX work is in [beryl-ax-troubleshooting-and-hardening-record.md](beryl-ax-troubleshooting-and-hardening-record.md). It is not an independent audit. This page stays the incident template.
+
 Add real incidents here after go-live. Template:
 
 ## YYYY-MM-DD — short title

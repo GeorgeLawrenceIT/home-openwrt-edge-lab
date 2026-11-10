@@ -1,5 +1,7 @@
 # Harden checklist — Phase 1
 
+This page is a planning template. A separate George-reported session note, which does not verify these items, is in [beryl-ax-troubleshooting-and-hardening-record.md](beryl-ax-troubleshooting-and-hardening-record.md).
+
 Fill **Done**, **Verified how**, and **Rollback** as each step is completed. Prefer commands or LuCI paths you actually used.
 
 ## 1. Day-one baseline
